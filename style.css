@@ -1,0 +1,14 @@
+body{
+    background-image: url("backG.jpg");
+}
+.card{
+    box-shadow: 0 0 8px 1px darkgray;
+    background-color: lightgray;
+    height: 650px;
+    margin: 1rem;
+}
+#title{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
